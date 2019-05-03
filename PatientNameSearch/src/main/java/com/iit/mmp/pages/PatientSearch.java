@@ -93,6 +93,13 @@ public class PatientSearch
 
 
 	}
+	
+	public int Add(int x, int y)
+	{
+		int z = x+y;
+		return z;
+				
+	}
 
 
 	// This method returns true if it clicks on patient name and page refreshes to the next page 
