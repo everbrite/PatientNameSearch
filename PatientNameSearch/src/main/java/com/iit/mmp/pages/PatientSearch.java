@@ -93,7 +93,7 @@ public class PatientSearch
 
 
 	}
-	
+	// Add function
 	public int Add(int x, int y)
 	{
 		int z = x+y;
