@@ -100,6 +100,13 @@ public class PatientSearch
 		return z;
 				
 	}
+	
+	public int Subtract(int a, int b)
+	{
+		
+		int c= a-b;
+		return c;
+	}
 
 
 	// This method returns true if it clicks on patient name and page refreshes to the next page 
